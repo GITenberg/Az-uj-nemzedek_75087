@@ -1,0 +1,42 @@
+_repo: Az-uj-nemzedek_75087
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Ács, Géza
+    alias: Acs, Geza
+    gutenberg_agent_id: '56774'
+    url: http://www.gutenberg.org/2009/agents/56774
+creator:
+  author:
+    agent_name: Hamsun, Knut
+    aliases:
+    - Gamsun, Knut
+    - Hamsund, Knut Pedersen
+    - Pedersen, Knut
+    - Thode, Knut
+    birthdate: 1859
+    deathdate: 1952
+    gutenberg_agent_id: '2376'
+    url: http://www.gutenberg.org/2009/agents/2376
+    wikipedia:
+    - https://no.wikipedia.org/wiki/Knut_Hamsun
+    - https://fi.wikipedia.org/wiki/Knut_Hamsun
+    - https://en.wikipedia.org/wiki/Knut_Hamsun
+description: ''
+gutenberg_issued: '2025-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75087'
+language: hu
+pgterms:marc905: 20250104105158hamsun
+pgterms:marc906: '1926'
+pgterms:marc907: hu
+production_note: Albert László
+publication_note: '  $aBudapest :$bFővárosi Könyvkiadó, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Az uj nemzedék
+url: http://www.gutenberg.org/ebooks/75087
